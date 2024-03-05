@@ -1,4 +1,4 @@
-appId: com.electron.app
+appId: com.m307.slipmanager
 productName: slip-manager-desktop
 directories:
   buildResources: build
