@@ -238,7 +238,7 @@ onMounted(() => {
         />
       </form>
       <span class="text-white"
-        >Please recommend use barcode hardware or "Barcode to PC" applcation (<a
+        >Please recommend use barcode hardware or "Barcode to PC" application (<a
           :href="BARCODE_TO_PC_URL_ANDROID"
           target="_blank"
           class="text-sky-500 hover:text-sky-600 hover:underline no-underline duration-200"
